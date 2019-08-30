@@ -1,4 +1,4 @@
-module github.com/bndr/gojenkins
+module github.com/EverCurse/gojenkins
 
 require (
 	github.com/stretchr/testify v1.3.0
